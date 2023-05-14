@@ -173,5 +173,5 @@ _All the operations whatever the user will do will be updated on the database. Y
 
 ## Support
 
-For support, email anubahvagnihotri@gamil.com .
+For support, email anubahvagnihotri@gmail.com .
 
