@@ -1,5 +1,5 @@
 
-# Courier Management System
+# Courier Management System(CMS)
 This is a Courier Website which allows user to place the Courier, check the delivery status, give the feedback and delete the feedback ,registration and updation of staff details,addition and deletion of franchise of the CMS. This supports all the **CRUD** opertaions.
 
 
